@@ -1,0 +1,10 @@
+# Ignore all node_modules folders.
+node_modules/
+
+# Exclude project files.
+/.idea/
+*.DS_Store
+.buildpath
+.project
+.settings/
+/nbproject/
